@@ -9,9 +9,9 @@ import org.junit.runners.Suite;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
-    FracCalcTestCheckpoint1.class,
-    FracCalcTestCheckpoint2.class,
-    FracCalcTestCheckpoint3.class,
+    //FracCalcTestCheckpoint1.class,
+    //FracCalcTestCheckpoint2.class,
+    //FracCalcTestCheckpoint3.class,
     FracCalcTestFinal.class,
     // FracCalcTestExtraCredit.class,
 })
